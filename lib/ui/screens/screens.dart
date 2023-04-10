@@ -1,3 +1,4 @@
+export 'package:widgets_app/ui/screens/theme_changer/theme_changer_screen.dart';
 export 'package:widgets_app/ui/screens/animated/animated_screen.dart';
 export 'package:widgets_app/ui/screens/app_tutorial/app_tutorial_screen.dart';
 export 'package:widgets_app/ui/screens/infinite_scroll/infinite_scroll_screen.dart';
@@ -7,3 +8,4 @@ export 'package:widgets_app/ui/screens/ui_controls/ui_controls.dart';
 export 'package:widgets_app/ui/screens/buttons/buttons_screen.dart';
 export 'package:widgets_app/ui/screens/cards/cards_screen.dart';
 export 'package:widgets_app/ui/screens/home/home_screen.dart';
+export 'package:widgets_app/ui/screens/counter/counter_screen.dart';

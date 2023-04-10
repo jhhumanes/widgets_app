@@ -56,7 +56,6 @@ class _InfiniteScrollScreenState extends State<InfiniteScrollScreen> {
   }
 
   Future<void> onRefresh() async {
-    print("REFRESCANDO................");
     isLoading = true;
     setState(() {});
 
